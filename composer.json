@@ -1,0 +1,9 @@
+{
+    "name": "nismi/my-php-project",
+    "require": {
+        "knplabs/knp-snappy": "^1.4",
+        "barryvdh/laravel-snappy": "^1.0",
+        "barryvdh/laravel-dompdf": "^2.2",
+        "mpdf/mpdf": "^6.1"
+    }
+}
